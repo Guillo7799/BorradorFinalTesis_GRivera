@@ -7,7 +7,8 @@ https://github.com/Guillo7799/FrontEnd_TESIS.git
 REPOSITORIO DE PARTE BACKEND:
 https://github.com/Guillo7799/BackEnd_TESIS.git
 
-LINK DEL VIDEO DE YOUTUBE: (Ciertos componentes como formularios extensos no se llenaron en el video para evitar que se alargue demasiado, sin embargo dichos componentes son completamente funcionales).
+LINK DEL VIDEO DE YOUTUBE: https://youtu.be/_TX22Vcj-rQ 
+(Ciertos componentes como formularios extensos no se llenaron en el video para evitar que se alargue demasiado, sin embargo dichos componentes son completamente funcionales).
 
 
 CAPTURAS DE PANTALLA SOBRE EL FUNCIONAMIENTO:
